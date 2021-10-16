@@ -108,6 +108,7 @@ a {
 /* BARRA LATERAL */
 aside {
   padding: 3rem;
+  position: relative;
 }
 
 .formulario-nuevo-proyecto {
@@ -351,4 +352,12 @@ aside {
 .alerta-error {
   background-color: rgb(230, 78, 78);
   color: var(--blanco);
+}
+
+.footer {
+  position: absolute;
+  bottom: 15px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #abadb1;
 }
