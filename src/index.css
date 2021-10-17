@@ -123,7 +123,7 @@ aside {
   color: var(--gris2);
 }
 .proyectos {
-  margin-top: 10rem;
+  margin: 10rem 0;
 }
 .listado-proyectos li {
   margin-bottom: 2rem;
